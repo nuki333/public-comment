@@ -4,7 +4,7 @@
 ### 応募いただきたい方
 
 特に、研究開発型スタートアップ・事業会社の知財・法務担当者の方。スタートアップ関係者（弁護士、ベンチャーキャピタルなど）の方。モデル契約書を実際に使われている方、興味を持たれている方。
-
+![Image 1](https://github.com/nuki333/ExcelVBA01_CreateOutlookMail/blob/main/img/appendix_01.png?raw=true)
 ### 募集内容
 
 モデル契約書（　）条文の修正内容とその背景
