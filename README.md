@@ -14,13 +14,13 @@
 * 具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの運用方針を事前にご確認ください｡
 
 #### 参考リンク
-* [経済産業省「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けて、Github（ギットハブ）を用いた意見募集をトライアル実施します](https://www.meti.go.jp/press/2021/05/20210517003/20210517003.html)
-* [Github 経済産業省 モデル契約書ver1.0意見募集](https://github.com/meti-oi-startups/METI-JPO-Model-Contract)
+* [モデル契約書ver1.0」の改訂に向けて、Github（ギットハブ）を用いた意見募集をトライアル実施します](https://)
+* [Github モデル契約書ver1.0意見募集](https://github.com/)
 
 
 ### 応募方法
 
-提案内容について、[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
+提案内容について、[プルリクエスト](https://)してください｡
 
 
 
